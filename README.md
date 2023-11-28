@@ -5,6 +5,6 @@
    1. win10.xlsx, win10_en.xlsx, macs+lan.xlsx (mac.xlsxはobsolete)
    1. win10/image96/, win10_en/image96/, macs+lan/image96/ にあるイメージファイル
 1. push する
-1. https://www.riise.hiroshima-u.ac.jp/fresta/2023/convert.cgi を開き，convert を押す
+1. https://www.riise.hiroshima-u.ac.jp/fresta/2024/convert.cgi を開き，convert を押す
 
 以上。
