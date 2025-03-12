@@ -61,11 +61,7 @@
           </div>
           <TMPL_IF NAME=col3>
             <div class="col-sm-8 col-md-6">
-              <TMPL_IF NAME=col2>
-                <img src="image/<TMPL_VAR NAME=col3>" class="<TMPL_VAR NAME=col2>" alt="*screenshot*">
-              <TMPL_ELSE>
-                <img src="image/<TMPL_VAR NAME=col3>" class="chart" alt="*screenshot*">
-              </TMPL_IF>
+	      <TMPL_VAR NAME=col3>
             </div>
           </TMPL_IF>
         </div>
